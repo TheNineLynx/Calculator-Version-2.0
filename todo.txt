@@ -1,0 +1,6 @@
+- buttons
+- square box for the numbers
+- color code the buttons
+
+- is it possible to add depth on the buttons?
+- change the top window to black
